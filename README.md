@@ -8,7 +8,7 @@ This project was created for **educational and research purposes only**.
 
 ## 📄 Project Specification
 You can read the full project specification and deliverables here:  
-[**Project Rootkit – Deliverables (PDF)**](https://github.com/yousuf865/Project-Rootkit/blob/main/Project%20Rootkit%20Deliverables.pdf)
+[**Crypto Rootkit – Deliverables (PDF)**](https://github.com/yousuf865/Project-Rootkit/blob/main/Project%20Rootkit%20Deliverables.pdf)
 
 ---
 
