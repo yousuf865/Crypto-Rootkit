@@ -1,6 +1,9 @@
 # Crypto Rootkit
 
-A 3-minute video demonstrating usage of the rootkit can be found [**here**](https://www.youtube.com/watch?v=UyfCoS1v6m0).  
+A 3-minute video demonstrating usage of the rootkit:
+[![Video Demo](https://img.youtube.com/vi/UyfCoS1v6m0/0.jpg)](https://www.youtube.com/watch?v=UyfCoS1v6m0)
+
+
 A Linux kernel rootkit designed to hide a simulated crypto-mining program.  
 This project was created for **educational and research purposes only**.
 
