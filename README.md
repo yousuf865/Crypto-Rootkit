@@ -1,6 +1,7 @@
 # Crypto Rootkit
 
 A 3-minute video demonstrating usage of the rootkit:
+
 [![Video Demo](https://img.youtube.com/vi/UyfCoS1v6m0/0.jpg)](https://www.youtube.com/watch?v=UyfCoS1v6m0)
 
 
